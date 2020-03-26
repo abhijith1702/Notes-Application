@@ -1,6 +1,6 @@
 package anusha.com.mynotes;
 /****************************************************************
- * PAIR PROGRAMMING-SHEETHAL YELLISETTY AND ANUSHA CHANDURI
+ * PAIR PROGRAMMING-Abhijith Avoudari AND ANUSHA CHANDURI
  * Z-ID-Z1853460 AND Z1840609
  * Anusha Chanduri
  * Sheethal Yelishetty
